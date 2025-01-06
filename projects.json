@@ -1,9 +1,9 @@
 {
   "column1": [
-    {
-      "title": "Branding - Unzet",
+   {
+      "title": "Logo - Kunak",
       "images": [
-        "https://framerusercontent.com/assets/4DanTqR213kCeegnRMgxHzqlhWo.mp4"
+        "https://framerusercontent.com/images/ArwBhul7XwbMb1q34gJFSaMU7Y.png?scale-down-to=2048"
       ]
     },
     {
@@ -19,9 +19,9 @@
       ]
     },
     {
-      "title": "Logo - Malzo",
+      "title": "Branding - Inereto",
       "images": [
-        "https://framerusercontent.com/images/3oPPDKnLEZd2WMJ83PccTnJvw.png?scale-down-to=2048"
+        "https://framerusercontent.com/assets/VYTmNcAUlHgvm39ptrfWy2aGQlM.mp4"
       ]
     },
     {
@@ -45,6 +45,12 @@
       ]
     },   
     {
+      "title": "Pitch Deck - Wellnessentially",
+      "images": [
+        "https://framerusercontent.com/images/eVf1HD97keVXsmpvPP5VhaTrpk.png?scale-down-to=2048"
+      ]
+    },
+    {
       "title": "Proposal - X.com",
       "images": [
         "https://framerusercontent.com/images/K5keSh6iSSOB8gmIQvilKcxaJVw.png?scale-down-to=2048"
@@ -55,19 +61,13 @@
       "images": [
         "https://framerusercontent.com/images/XearhnS7YnTofYkiyzT6E1rbm4o.png?scale-down-to=2048"
       ]
-    },
-    {
-      "title": "Pitch Deck - Wellnessentially",
-      "images": [
-        "https://framerusercontent.com/images/eVf1HD97keVXsmpvPP5VhaTrpk.png?scale-down-to=2048"
-      ]
     }
   ],
   "column3": [
     {
-      "title": "Logo - Kunak",
+      "title": "Branding - Unzet",
       "images": [
-        "https://framerusercontent.com/images/ArwBhul7XwbMb1q34gJFSaMU7Y.png?scale-down-to=2048"
+        "https://framerusercontent.com/assets/4DanTqR213kCeegnRMgxHzqlhWo.mp4"
       ]
     },
     {
@@ -77,9 +77,9 @@
       ]
     },
     {
-      "title": "Branding - Inereto",
+      "title": "Logo - Malzo",
       "images": [
-        "https://framerusercontent.com/assets/VYTmNcAUlHgvm39ptrfWy2aGQlM.mp4"
+        "https://framerusercontent.com/images/3oPPDKnLEZd2WMJ83PccTnJvw.png?scale-down-to=2048"
       ]
     },
     {
